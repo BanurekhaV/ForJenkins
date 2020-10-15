@@ -1,0 +1,11 @@
+E:\Astrazeneca\SecondPrj\Thirdprj\bin\Debug\Thirdprj.exe.config
+E:\Astrazeneca\SecondPrj\Thirdprj\bin\Debug\Thirdprj.exe
+E:\Astrazeneca\SecondPrj\Thirdprj\bin\Debug\Thirdprj.pdb
+E:\Astrazeneca\SecondPrj\Thirdprj\bin\Debug\SecondPrj.exe
+E:\Astrazeneca\SecondPrj\Thirdprj\bin\Debug\SecondPrj.pdb
+E:\Astrazeneca\SecondPrj\Thirdprj\bin\Debug\SecondPrj.exe.config
+E:\Astrazeneca\SecondPrj\Thirdprj\obj\Debug\Thirdprj.csprojAssemblyReference.cache
+E:\Astrazeneca\SecondPrj\Thirdprj\obj\Debug\Thirdprj.csproj.CoreCompileInputs.cache
+E:\Astrazeneca\SecondPrj\Thirdprj\obj\Debug\Thirdprj.csproj.CopyComplete
+E:\Astrazeneca\SecondPrj\Thirdprj\obj\Debug\Thirdprj.exe
+E:\Astrazeneca\SecondPrj\Thirdprj\obj\Debug\Thirdprj.pdb

@@ -1,0 +1,7 @@
+E:\Astrazeneca\SecondPrj\SecondPrj\bin\Debug\SecondPrj.exe.config
+E:\Astrazeneca\SecondPrj\SecondPrj\bin\Debug\SecondPrj.exe
+E:\Astrazeneca\SecondPrj\SecondPrj\bin\Debug\SecondPrj.pdb
+E:\Astrazeneca\SecondPrj\SecondPrj\obj\Debug\SecondPrj.csprojAssemblyReference.cache
+E:\Astrazeneca\SecondPrj\SecondPrj\obj\Debug\SecondPrj.csproj.CoreCompileInputs.cache
+E:\Astrazeneca\SecondPrj\SecondPrj\obj\Debug\SecondPrj.exe
+E:\Astrazeneca\SecondPrj\SecondPrj\obj\Debug\SecondPrj.pdb
